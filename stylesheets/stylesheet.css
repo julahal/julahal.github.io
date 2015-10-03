@@ -59,6 +59,13 @@ a {
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957); }
 
+.page-header.piskel {
+  color: #E6B2ff;
+  text-align: center;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #3333d6, #000); 
+}
+
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 5rem 6rem; } }
